@@ -1,1 +1,1 @@
-5 print f c
+6 size c
