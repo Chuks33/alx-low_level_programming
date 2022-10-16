@@ -1,1 +1,1 @@
-2 print c
+print 2 c
