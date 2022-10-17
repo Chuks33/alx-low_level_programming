@@ -1,1 +1,1 @@
-6 print c
+7 tebla c
