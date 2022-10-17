@@ -1,1 +1,1 @@
-3 print readme
+3 print c
