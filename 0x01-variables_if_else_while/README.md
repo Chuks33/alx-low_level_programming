@@ -1,1 +1,1 @@
-3 prints alphabet c
+3 print c
