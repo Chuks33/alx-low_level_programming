@@ -1,1 +1,1 @@
-6 print numberz
+6 print c
