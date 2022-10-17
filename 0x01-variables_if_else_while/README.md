@@ -1,1 +1,1 @@
-4 alphabets
+5 print c
