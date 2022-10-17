@@ -1,1 +1,1 @@
-3 print c
+3 puts c
