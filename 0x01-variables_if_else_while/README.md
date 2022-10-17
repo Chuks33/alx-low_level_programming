@@ -1,1 +1,1 @@
-3 put c
+3 prints alphabet c
