@@ -1,18 +1,18 @@
 #include "main.h"
+
+
 /**
- * main - This program prints the phrase _putchar
- * Return: 0
- */
-int main(void)
+  * print_alphabet -> prints the lowercase alphabets
+  */
+
+void print_alphabet(void)
 {
-char string_[] = "_putchar";
-	int i;
+	int j;
 
-for (i = 0; string_[i] != '\0'; i++)
+	for (j = 'a' ; j <= 'z' ; j++)
 	{
-		_putchar(string_[i]);
+		_putchar(j);
 	}
+	_putchar ('\n');
 
-_putchar('\n');
-	return (0);
 }
