@@ -1,10 +1,11 @@
 #include "main.h"
 
 /**
- * main - Entry point
+ * main - prints Putchar
  *
- * Return: Always returns 0
+ * Description: prints _putchar
  *
+ * Return: 0 (Success)
  */
 
 int main(void)
@@ -21,4 +22,5 @@ int main(void)
 
 return (0);
 }
+
 
