@@ -13,7 +13,7 @@ int _islower(int c)
 {
     int i = a;
 
-for (i = a; i <= z; i++)
+    for (i = a; i <= z; i++)
     {
         /* refer in c*/
         if (c == i)
@@ -21,7 +21,7 @@ for (i = a; i <= z; i++)
             return (1);
         }
 
-            }
+    }
     return (0);
 }
 
