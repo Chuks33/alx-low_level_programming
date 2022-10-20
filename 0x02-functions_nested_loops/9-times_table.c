@@ -39,3 +39,4 @@ if (column == 0)
 		}
 		_putchar('\n');
 	}
+}
