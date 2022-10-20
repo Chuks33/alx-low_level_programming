@@ -1,1 +1,1 @@
-0 putchar
+3 is lower
