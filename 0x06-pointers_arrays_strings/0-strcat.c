@@ -1,5 +1,6 @@
 #include "main.h"
 
+int main() {
 /**
  * *_strcat - concatenates two strings
  * @dest: pointer destination
